@@ -1,0 +1,98 @@
+* {
+  font-family: 'Bungee Inline', sans-serif;
+  color: #FFF;
+
+}
+
+body {
+  margin: 0 auto;
+  text-align: center;
+  background-image: url("http://cdn.pcwallart.com/images/milky-way-wallpaper-2.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+h1 {
+  font-size: 55px;
+  font-weight: 700;
+  margin: 15px;
+ 
+
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: 300;
+  margin-top: -10px;
+  margin-bottom: 30px;
+}
+
+p{
+  font-size: 20px;
+  text-align: center;
+
+}
+
+#output{
+  
+  font-size: 22px;
+  text-decoration: 
+
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  width: 100px;
+  height: 150px;
+  margin: 5px;
+  border: 5px solid #FEFFFF;
+  background: url("https://image.ibb.co/jU2Tiv/MARLEY.png");
+  background-position: center;
+  border-radius: 10px;
+  vertical-align: top;
+  cursor: pointer;
+
+}
+nav {
+  background-color: #000000;
+
+}
+
+a:hover {
+  background-color: blue;
+
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+img {
+  width:100px;
+  height:150px;
+  
+}
+
+footer {
+  
+  text-align: center;
+}
+
+.Myname {
+  color :blue;
+}
+
+#heart {
+  color: yellow;
+  font-size: 12;
+}
